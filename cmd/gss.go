@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/agustin-del-pino/gss/pkg/gss"
+	"github.com/beanb1123/git-search/pkg/gss"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 	"golang.org/x/sync/errgroup"
