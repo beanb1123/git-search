@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/agustin-del-pino/gss/cmd"
+	"github.com/agustin-del-pino/git-search/cmd"
 )
 
 func main() {
